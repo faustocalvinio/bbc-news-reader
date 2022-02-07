@@ -1,5 +1,4 @@
 # imports
-from turtle import width
 from selenium import webdriver;
 from easygui import enterbox;
 from time import sleep;
